@@ -10,6 +10,11 @@
     border-color: var(--primary);
 }
 
+.btn-primary-1 {
+    background-color: #EEEEEE;
+    color: var(--primary);
+}
+
 .btn-primary:hover {
     background-color: var(--light);
     border-color: var(--primary);
@@ -29,3 +34,37 @@
 .text-bg-primary {
     background-color: var(--light);
 }
+
+.text-text {
+    color: var(--primary);
+}
+
+.badge {
+    background-color: var(--primary);
+    color: var(--light);
+}
+
+.card {
+    border-radius: 10px;
+    border-color: #EEEEEE;
+    background-color: #EEEEEE;
+}
+
+.card-1 {
+    border-radius: 0px;
+    border-color: var(--primary);
+    background-color: var(--primary);
+}
+
+.card-title {
+    color: var(--light);
+}
+
+.card-title-1 {
+    color: #000000;
+}
+
+.card-text-1 {
+    color: var(--light);
+}
+
